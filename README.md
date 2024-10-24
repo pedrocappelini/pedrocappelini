@@ -1,6 +1,6 @@
 ## PEDRAO 🌱
 -sei java <br/>
--eu gosto de torta <br/>
+-gosto de torta <br/>
 -low elo
 <!--
 **pedrocappelini/pedrocappelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
