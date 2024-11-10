@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Low elo<br>Gosto de bolo e java<br>Não sei usar ponteiros<br>Aviadado</p>
+<p align="left">Low elo<br>Gosto de bolo e java<br>Aviadado</p>
 
 ###
 
