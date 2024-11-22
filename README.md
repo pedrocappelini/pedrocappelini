@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Sobre eu</h2>
-
-###
-
-<p align="left">Low elo<br>Gosto de bolo e java<br>Aviadado</p>
-
-###
-
 <h2 align="left">Eu "sei"</h2>
 
 ###
