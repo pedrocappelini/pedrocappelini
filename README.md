@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h2 align="left">Eu "sei"</h2>
 
 ###
