@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocappelini&show_icons=true&locale=en&layout=compact" alt="pedrocappelini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocappelini&show_icons=true&title_color=000000&bg_color=1f1f1f&locale=en" alt="pedrocappelini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocappelini&show_icons=true&title_color=ffffff&text_color=ededed&bg_color=000000&locale=en" alt="pedrocappelini" /></p>
