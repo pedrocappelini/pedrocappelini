@@ -1,7 +1,7 @@
 <h1 align="center">Hi🌳, I'm Pedro</h1>
 <h3 align="center">I make bad games.</h3>
 
-- 🌱 I’m currently learning **Advanced java stuff, Unity and Unreal.**
+- 🌱 I’m currently learning **Advanced java stuff, Unreal Engine and Rust.**
 
 - 📫 How to reach me **pedrocappm@gmail.com**
 
