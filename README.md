@@ -1,5 +1,5 @@
 <h1 align="center">Hi🌳, I'm Pedro</h1>
-<h3 align="center">I have no idea what I'm doing.</h3>
+<h3 align="center">Not sure what am I doing.</h3>
 
 - 🌱 I’m currently learning **ML with Python and some advanced Java styff.**
 
