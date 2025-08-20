@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">I'm not sure what am I doing</h3>
 
-- 🌱 I’m currently learning **Java and React.**
+- 🌱 I’m currently learning **Java and React.** And also neglecting python
 
 - 📫 How to reach me **pedrocappm@gmail.com**
 
