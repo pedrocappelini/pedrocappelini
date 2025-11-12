@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java and React. And also neglecting python<br>- I use both Vscode and Intellij for my projects.</p>
+<p align="left">📚 I'm currently learning Java and React. And also neglecting python<br>- I use both Zed and Intellij for my projects.</p>
 
 ###
 
