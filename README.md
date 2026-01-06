@@ -45,7 +45,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrocappelini&show_icons=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pedrocappelini&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=false&order=2&hide=Projeto2_Pandas,Projeto1_Pandas" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pedrocappelini&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=Projeto2_Pandas,Projeto1_Pandas" height="150" alt="languages graph" />
 </div>
 
 ###
