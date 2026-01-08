@@ -43,9 +43,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrocappelini&show_icons=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pedrocappelini&layout=compact&card_width=280&langs_count=8&theme=dark&hide_border=false&order=2&hide=Jupyter%20Notebook,Perl,JavaScript,Ruby,OpenEdge%20ABL" height="150" alt="languages graph" />
-</div>
-
-###
